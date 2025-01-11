@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 ### splash Screen :
-<img src="https://github.com/user-attachments/assets/392d51d8-fc22-4e41-8f66-cfd62d0436a6" width=15% height=1 :0%>
+<img src="https://github.com/user-attachments/assets/392d51d8-fc22-4e41-8f66-cfd62d0436a6" width=15% height=10%>
 ### home screen :
 <img src="https://github.com/user-attachments/assets/2f6090b1-80c2-4dd7-bb80-9559c0722d19" width=15% height=10%>
 
